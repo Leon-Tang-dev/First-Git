@@ -29,3 +29,6 @@ build/
 *.dll
 *.class
 *.jar
+
+# Installers (large files, keep local only)
+安装包/
